@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Node, MongoDB**
 
-- 📫 How to reach me **sibil.sorenofficial@gmail.com**
+- 📫 How to reach me **soren.sibilsarjam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
