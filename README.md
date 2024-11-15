@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibilsoren&label=Profile%20views&color=0e75b6&style=flat" alt="sibilsoren" /> </p>
 
 
-- 🔭 I’m currently working on **Opneon**
+- 🔭 I’m currently working on **Something Interesting**
 
 - 🌱 I’m currently learning **AWS**
 
