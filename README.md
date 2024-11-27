@@ -54,16 +54,14 @@ Hey there! I'm a passionate Full Stack Developer with 3.5 years of experience cr
 ### CrackMate
 A comprehensive learning platform built with React, Node.js, and MongoDB. Features include interactive learning modules, progress tracking, and personalized learning paths.
 
-### [Your Other Project Name]
-Brief description of another significant project you've worked on.
 
 ## 📫 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project, need consulting, or just want to have a tech chat!
 
 - 📧 Email: soren.sibilsarjam@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
+- 💼 LinkedIn: [Sibil Sarjam Soren](https://www.linkedin.com/in/sibilsarjamsoren/)
+- 🌐 Portfolio: [](https://sibilsarjamsoren.netlify.app/)
 
 ---
 
