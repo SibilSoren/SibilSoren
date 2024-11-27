@@ -61,7 +61,7 @@ Feel free to reach out if you want to collaborate on a project, need consulting,
 
 - 📧 Email: soren.sibilsarjam@gmail.com
 - 💼 LinkedIn: [Sibil Sarjam Soren](https://www.linkedin.com/in/sibilsarjamsoren/)
-- 🌐 Portfolio: [](https://sibilsarjamsoren.netlify.app/)
+- 🌐 Portfolio: [Website](https://sibilsarjamsoren.netlify.app/)
 
 ---
 
