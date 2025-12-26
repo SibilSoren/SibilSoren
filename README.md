@@ -48,8 +48,8 @@ With **4.5 years of experience**, I specialize in crafting robust full-stack app
 
 #### [CrackMate](https://github.com/sibilsoren/crackmate)
 **Innovative Learning Platform**
-- **Impact**: Orchestrated a microservices-based backend to handle **[X]+ concurrent users**.
-- **Performance**: Optimized data retrieval, reducing API latency by **[X]%** through tiered caching.
+- **Impact**: Orchestrated a microservices-based backend to handle **[200]+ concurrent users**.
+- **Performance**: Optimized data retrieval, reducing API latency by **[30]%** through tiered caching.
 - **Availability**: Designed for **99.9% uptime** using AWS elastic scaling and availability patterns.
 - **Tech Stack**: Node.js, MongoDB, React, AWS (EC2, S3, RDS).
 
