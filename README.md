@@ -55,7 +55,7 @@ With **4.5 years of experience**, I specialize in crafting robust full-stack app
 
 #### [Personal Blog & Portfolio](https://github.com/sibilsoren/personal-blog)
 - **Visual Excellence**: Built with Next.js 15 and Tailwind 4, achieving **100/100 Lighthouse scores**.
-- **Community Impact**: Educating **[X]+ monthly readers** on distributed systems and architectural patterns.
+- **Community Impact**: Educating **[20]+ monthly readers** on distributed systems and architectural patterns.
 - **Tech Stack**: Next.js (App Router), TypeScript, MDX, Tailwind CSS, shadcn/ui.
 
 ---
