@@ -60,15 +60,6 @@ With **4.5 years of experience**, I specialize in crafting robust full-stack app
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibilsoren&show_icons=true&theme=radical&border_radius=10" alt="Sibil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibilsoren&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
