@@ -46,7 +46,7 @@ With **4.5 years of experience**, I specialize in crafting robust full-stack app
 
 ### 🚀 Featured Projects
 
-#### [CrackMate](https://github.com/sibilsoren/crackmate)
+#### [CrackMate](https://crackmate.in)
 **Innovative Learning Platform**
 - **Impact**: Orchestrated a microservices-based backend to handle **[200]+ concurrent users**.
 - **Performance**: Optimized data retrieval, reducing API latency by **[30]%** through tiered caching.
