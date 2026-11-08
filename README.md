@@ -1,6 +1,6 @@
 ## Sibil Sarjam Soren
 
-Backend engineer in Kolkata, currently at Accenture. I work mostly in Node.js and
+Backend engineer in Kolkata, currently a Senior Analyst at Accenture. I work mostly in Node.js and
 TypeScript, on a piped natural gas platform that connects consumers to their regional
 gas vendors.
 
