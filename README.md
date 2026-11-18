@@ -16,6 +16,26 @@ Next.js · Docker · Azure
 
 ---
 
+### Open source
+
+Fixes I've had merged upstream, mostly around rate limiting, Redis and service restarts.
+
+**[node-redis](https://github.com/redis/node-redis)**
+
+- [Backported a reconnect fix to v5.12](https://github.com/redis/node-redis/pull/3622). Clients with more sharded channels than fit in one socket write never became ready after a reconnect. Shipped in `redis@5.12.3`.
+
+**[rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible)**
+
+- [Fixed sub-second rate limits that never reset](https://github.com/animir/node-rate-limiter-flexible/pull/379). Durations under one second were stored with no expiry in Redis, Valkey and Memcache. Shipped in `v11.5.0`.
+
+**[Openship](https://github.com/oblien/openship)**
+
+- [Kept the service running when `openship up` runs again on macOS](https://github.com/oblien/openship/pull/1808). The CLI reported success while launchd had nothing loaded.
+- [Stopped the API from outliving its supervisor](https://github.com/oblien/openship/pull/1809). A restart during startup left the old API holding its port and database lock.
+- [Kept a running service on its own ports](https://github.com/oblien/openship/pull/1743). Running `openship up` again treated the service's own listeners as occupied and moved it to new ports.
+
+---
+
 ### Projects
 
 **[Gatekeeper](https://github.com/SibilSoren/gatekeeper)** — `npm i @sibilsoren/gatekeeper`
