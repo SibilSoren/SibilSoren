@@ -34,6 +34,10 @@ Fixes I've had merged upstream, mostly around rate limiting, Redis and service r
 - [Stopped the API from outliving its supervisor](https://github.com/oblien/openship/pull/1809). A restart during startup left the old API holding its port and database lock.
 - [Kept a running service on its own ports](https://github.com/oblien/openship/pull/1743). Running `openship up` again treated the service's own listeners as occupied and moved it to new ports.
 
+**[notifkit](https://github.com/devkitshq/notifkit)**
+
+- [Added the SMTP email provider](https://github.com/devkitshq/notifkit/pull/29), published as `@notifkit/provider-smtp`. It sends through any SMTP server with nodemailer, and permanent rejections and malformed addresses fail without a retry.
+
 ---
 
 ### Projects
